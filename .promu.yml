@@ -13,3 +13,7 @@ tarball:
     - README.md
     - CHANGELOG.md
     - LICENSE
+
+crossbuild:
+  platforms:
+    - linux/amd64
